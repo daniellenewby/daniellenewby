@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniellenewby
 - 👀 I’m interested in ... all things Dementia Prevention!
 - 🌱 I’m currently learning ... self controlled case series analysis :)
-- 💞️ I’m looking to collaborate on ... applied machine learning to medical records and population cohorts
+- 💞️ I’m looking to collaborate on ... Data triangulation for drug repurposing and safety for dementia using medical records and population cohorts
 - 📫 How to reach me ... Twitter: @Danielle_Newby https://www.psych.ox.ac.uk/team/danielle-newby
 
 <!---
