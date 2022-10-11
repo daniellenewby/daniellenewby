@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniellenewby
 - 👀 I’m interested in ... understanding the benefits and safety of drugs using real world data
-- 🌱 I’m currently learning ... github and OHDSI :)
+- 🌱 I’m currently learning ... github and survival extrapolation
 - 💞️ I’m looking to collaborate on ... data triangulation for drug repurposing and safety for chronic health conditions using real world data
 - 📫 How to reach me ... Twitter: @Danielle_Newby https://www.ndorms.ox.ac.uk/team/danielle-newby
 
